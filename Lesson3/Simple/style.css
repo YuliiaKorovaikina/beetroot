@@ -1,0 +1,41 @@
+p {
+    font-size: 18px;
+    font-style: normal;
+}
+
+.header {
+    background-color: #a52a2a;
+    color: white;
+    text-align: center;
+}
+
+.sunset{
+    width: 100%;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue {
+    color: #2607ff
+}
+
+.car-block {
+    text-align: center;
+}
+
+.car {
+    border: black 3px dashed;
+}
+
+.footer {
+    font-size: 20px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
