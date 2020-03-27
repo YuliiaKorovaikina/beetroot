@@ -1,0 +1,27 @@
+.wrapper {
+    width: 1200px;
+    margin: 23px 17px 24px 17px;
+}
+
+.card {
+    text-align: center;
+    float: left;
+    width: 365px;
+    margin-right: 35px;
+}
+
+.card>h3 {
+    color: #414141;
+}
+
+.card>p {
+    color: #6C6C6C;
+}
+
+.content {
+    text-align: center;
+}
+
+.content>* {
+    display: inline-block;
+}
